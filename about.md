@@ -6,6 +6,8 @@ order: 1
 
 # About
 
-This is a open source project
+**Gelatinus Cube** is a open source D&D tabletop toolbox created by a few *D&D* nerds.
 
-[MPMB](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet){:target="_blank"} citations and link
+The first tool that we implemented, is a d&d spellcard generator and we hope there will be more to come soon.
+
+The spell list we retrieved from the [MPMB](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet){:target="_blank"} repository.
