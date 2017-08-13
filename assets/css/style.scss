@@ -1,0 +1,61 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.main-menu {
+  max-width: 64rem;
+  padding: 3rem;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  ul {
+    list-style-type: none;
+    li {
+      float: Left;
+      width: 100px;
+      font-weight: normal;
+      a {
+        color: #159957;
+        &:visited {
+          color: #159957;
+        }
+        &:hover {
+          color: #155799;
+          text-decoration: none;
+        }
+        &:active {
+          color: #155799;
+        }
+      }
+    }
+  }
+}
+
+.spellcard-generator {
+  width: 400px;
+  margin: 0 auto;
+  input {
+    &#spell-input, &#spell-submit, &#card-download {
+      width: 390px;
+      margin-top: 0.2rem;
+    }
+  }
+}
+
+.spellcard {
+  position: relative;
+  img#bg {
+    display: block;
+    top: 0;
+    right: 0;
+  }
+  span#fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+.clear {
+  clear: both;
+}

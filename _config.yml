@@ -1,0 +1,14 @@
+# Setup
+title:        Gelatinus Cube
+tagline:      D&D utility page, created by fans for fans.
+baseurl:      ""
+
+# About/contact
+author:
+  name:       Mind Flayer
+  url:        http://gelatinuscube.github.io
+
+#Others
+markdown: kramdown
+kramdown:
+  input: GFM
